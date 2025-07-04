@@ -1,4 +1,22 @@
 body {
     background-color: black;
     color: rgb(0, 85, 255);
+    font-family: "Dancing Script", cursive;
 }
+
+ header{
+    font-family: "Dancing Script", cursive;
+    font-size: 60px;
+    border-bottom: double 5px blue;
+    padding: 35px;
+    text-align: center ;
+ }  
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+
+
+
